@@ -1,0 +1,25 @@
+GitHub
+
+Arquivo da aula de Git e GitHub para iniciantes - Udemy
+
+Este arquivo esta sendo utilizado para treinar os comandos básicos do GIT
+
+Segunda modificação para realizar um novo commit
+
+Esta linha esta sendo utilizada para verificar o comando DIFF!
+
+Mais uma edição, foi para testar o comando add antes do diff
+
+GIT reset
+	--soft
+		Irá pegar as modificações e irá somente voltar o commit. O arquivo estará pronto para um novo commit.
+	--mixed
+		Irá apagar o commit e irá voltar os arquivos para antes do staged. Então é só add e commit.
+	--hard
+
+
+***Este arquivo foi modificado pelo vim***
+*** Esta foi a segunda modificação pelo vim***
+// Modificação feita pelo notepad++
+
+Irá eliminar tudo o que foi feito no commit
