@@ -21,6 +21,10 @@ GIT reset
 ***Este arquivo foi modificado pelo vim***
 *** Esta foi a segunda modificação pelo vim***
 // Modificação feita pelo notepad++
-*** Modificação realizada após adicionar o arquivo para controle de versão***
+*** Modificação realizada após adicionar o arquivo para controle de versão** *
 
 Irá eliminar tudo o que foi feito no commit
+
+Treinando o comando git stash
+
+Verificando as funções das TAGS para o GIT
