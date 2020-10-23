@@ -17,7 +17,6 @@ GIT reset
 		Irá apagar o commit e irá voltar os arquivos para antes do staged. Então é só add e commit.
 	--hard
 
-Esta linha esta sendo adicionada para testar o comando revert
 
 ***Este arquivo foi modificado pelo vim***
 *** Esta foi a segunda modificação pelo vim***
